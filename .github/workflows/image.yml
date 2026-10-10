@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - 'Dockerfile'
-      - 'app-obj_3_8lk3.py'
+      - 'app.py'
       - 'requirements_4_x86i.txt'
       - '.github/workflows/image.yml'
   workflow_dispatch:
