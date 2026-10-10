@@ -6,7 +6,7 @@ on:
     paths:
       - 'Dockerfile'
       - 'app.py'
-      - 'requirements_4_x86i.txt'
+      - 'requirements.txt'
       - '.github/workflows/image.yml'
   workflow_dispatch:
 
