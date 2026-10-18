@@ -1,0 +1,9 @@
+{
+  "name": "argo-node",
+  "version": "26.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node index.js" }
+}
